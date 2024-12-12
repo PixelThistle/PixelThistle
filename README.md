@@ -1,18 +1,24 @@
 <picture>
- <img alt="i'm waving at you hiiii hellooooo!!!" src="RMAssets/WavingPixel.gif">
+ <img alt="pixel's waving at you!!!!" src="RMAssets/WavingPixel.gif">
 </picture>
 
-<!--
-**PixelThistle/PixelThistle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is Pixel! please say hi to him!!!!
 
-Here are some ideas to get you started:
+Hi hello there uhhh i'm PixelThistle!!!!!!!!!!
+I have no idea why you're here but hello!!!
+I don't really do much over here (that's public, anyways...), mostly just store the source codes for some of my projects on here so I can collaborate with others more efficiently, plus have a backup if anything goes wrong with my PC! Mostly the former, lol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Current Projects
+
+- A Week At Eli's: Remastered (Unreleased)
+- FNF': Pixel's Parody Palooza! (Unreleased)
+- FNF': VS. Eli DX (Unreleased)
+- too much other stuff to count send help
+  
+## My Former/Canned Projects
+
+- Eli's Art Class/Eli's Art Class Remastered (Canned due to bitchyear- I mean development issues.)
+- Pixel's Wonderous House! (Canned because I forgot it existed (oops))
+- pixel sigma mod (Canned because it SUCKED!)
+- FNF': VS. Drawnic (Ditto.)
+- FNF': The Eli Files (Ditto again.)
