@@ -19,4 +19,3 @@ I don't really do much over here, mostly just store the source codes for some of
 - Eli's Art Class/Eli's Art Class Remastered (Canned due to development issues.)
 - pixel sigma mod (Canned because it SUCKED!)
 - FNF': VS. Drawnic (Ditto.)
-- FNF': The Eli Files (Ditto again.)
