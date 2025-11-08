@@ -4,21 +4,19 @@
 
 # This is Pixel! please say hi to him!!!!
 
-Hi hello there uhhh i'm PixelThistle!!!!!!!!!!
+Hi hello there uhhh i'm Pixel!!!!!!!!!!
 I have no idea why you're here but hello!!!
-I don't really do much over here (that's public, anyways...), mostly just store the source codes for some of my projects on here so I can collaborate with others more efficiently, plus have a backup if anything goes wrong with my PC! Mostly the former, lol.
+I don't really do much over here, mostly just store the source codes for some of my projects on here so I can collaborate with others more efficiently, plus have a backup if anything goes wrong with my PC! Mostly the former.
 
 ## My Current Projects
 
 - A Week At Eli's: Remastered (Unreleased)
-- FNF': Pixel's Parody Palooza! (Unreleased)
-- FNF': VS. Eli DX (Unreleased)
+- pixel swag mod (Unreleased)
 - too much other stuff to count send help
   
 ## My Former/Canned Projects
 
-- Eli's Art Class/Eli's Art Class Remastered (Canned due to bitchyear- I mean development issues.)
-- Pixel's Wonderous House! (Canned because I forgot it existed (oops))
+- Eli's Art Class/Eli's Art Class Remastered (Canned due to development issues.)
 - pixel sigma mod (Canned because it SUCKED!)
 - FNF': VS. Drawnic (Ditto.)
 - FNF': The Eli Files (Ditto again.)
